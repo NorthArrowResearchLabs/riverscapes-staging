@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/riverscapes-staging/precache-manifest.79f96c3d5c120fdc2e00a88e338e47f6.js"
+  "/riverscapes-staging/precache-manifest.58abd9746b57affa6a934e5922fe46dc.js"
 );
 
 self.addEventListener('message', (event) => {
