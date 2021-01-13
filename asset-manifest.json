@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/riverscapes-staging/static/css/main.6c589a96.chunk.css",
+    "main.js": "/riverscapes-staging/static/js/main.9b677e2a.chunk.js",
+    "main.js.map": "/riverscapes-staging/static/js/main.9b677e2a.chunk.js.map",
+    "runtime-main.js": "/riverscapes-staging/static/js/runtime-main.b35eb83e.js",
+    "runtime-main.js.map": "/riverscapes-staging/static/js/runtime-main.b35eb83e.js.map",
+    "static/css/2.2d5d1d6e.chunk.css": "/riverscapes-staging/static/css/2.2d5d1d6e.chunk.css",
+    "static/js/2.a6ed6438.chunk.js": "/riverscapes-staging/static/js/2.a6ed6438.chunk.js",
+    "static/js/2.a6ed6438.chunk.js.map": "/riverscapes-staging/static/js/2.a6ed6438.chunk.js.map",
+    "index.html": "/riverscapes-staging/index.html",
+    "static/css/2.2d5d1d6e.chunk.css.map": "/riverscapes-staging/static/css/2.2d5d1d6e.chunk.css.map",
+    "static/css/main.6c589a96.chunk.css.map": "/riverscapes-staging/static/css/main.6c589a96.chunk.css.map",
+    "static/js/2.a6ed6438.chunk.js.LICENSE.txt": "/riverscapes-staging/static/js/2.a6ed6438.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/riverscapes-staging/static/media/roboto-latin-900italic.ae5f802c.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b35eb83e.js",
+    "static/css/2.2d5d1d6e.chunk.css",
+    "static/js/2.a6ed6438.chunk.js",
+    "static/css/main.6c589a96.chunk.css",
+    "static/js/main.9b677e2a.chunk.js"
+  ]
+}
