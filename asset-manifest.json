@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/riverscapes-staging/static/css/main.6c589a96.chunk.css",
-    "main.js": "/riverscapes-staging/static/js/main.6df69f85.chunk.js",
-    "main.js.map": "/riverscapes-staging/static/js/main.6df69f85.chunk.js.map",
+    "main.js": "/riverscapes-staging/static/js/main.bb8e750e.chunk.js",
+    "main.js.map": "/riverscapes-staging/static/js/main.bb8e750e.chunk.js.map",
     "runtime-main.js": "/riverscapes-staging/static/js/runtime-main.8632a9e4.js",
     "runtime-main.js.map": "/riverscapes-staging/static/js/runtime-main.8632a9e4.js.map",
     "static/css/2.dd311c40.chunk.css": "/riverscapes-staging/static/css/2.dd311c40.chunk.css",
-    "static/js/2.d8068152.chunk.js": "/riverscapes-staging/static/js/2.d8068152.chunk.js",
-    "static/js/2.d8068152.chunk.js.map": "/riverscapes-staging/static/js/2.d8068152.chunk.js.map",
+    "static/js/2.32c81ada.chunk.js": "/riverscapes-staging/static/js/2.32c81ada.chunk.js",
+    "static/js/2.32c81ada.chunk.js.map": "/riverscapes-staging/static/js/2.32c81ada.chunk.js.map",
     "index.html": "/riverscapes-staging/index.html",
     "static/css/2.dd311c40.chunk.css.map": "/riverscapes-staging/static/css/2.dd311c40.chunk.css.map",
     "static/css/main.6c589a96.chunk.css.map": "/riverscapes-staging/static/css/main.6c589a96.chunk.css.map",
-    "static/js/2.d8068152.chunk.js.LICENSE.txt": "/riverscapes-staging/static/js/2.d8068152.chunk.js.LICENSE.txt",
+    "static/js/2.32c81ada.chunk.js.LICENSE.txt": "/riverscapes-staging/static/js/2.32c81ada.chunk.js.LICENSE.txt",
     "static/media/index.css": "/riverscapes-staging/static/media/roboto-latin-900italic.cb5ad999.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.8632a9e4.js",
     "static/css/2.dd311c40.chunk.css",
-    "static/js/2.d8068152.chunk.js",
+    "static/js/2.32c81ada.chunk.js",
     "static/css/main.6c589a96.chunk.css",
-    "static/js/main.6df69f85.chunk.js"
+    "static/js/main.bb8e750e.chunk.js"
   ]
 }
